@@ -1,3 +1,1 @@
-This is the readme file of a test project.
-
-Updating readme.md file.
+Deleted all the content of this readme file.
